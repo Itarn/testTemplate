@@ -1,0 +1,10 @@
+{{#if hwoptions}}
+  {{#compare val hw1}}
+    src/components/hw2
+  {{else}}
+    src/components/hw1
+  {{/compare}}
+{{/if}}
+
+.needrender
+.templateignore
