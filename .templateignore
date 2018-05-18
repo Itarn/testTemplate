@@ -1,4 +1,4 @@
-{{#compare hwoptions hw1}}
+{{#compare hwoptions 'hw1'}}
   src/components/hw2.vue
 {{else}}
   src/components/hw1.vue
