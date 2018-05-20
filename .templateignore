@@ -3,3 +3,6 @@ src/components/hw2.vue
 {{else}}
 src/components/hw1.vue
 {{/compare}}
+
+.needrender
+.download-temp
