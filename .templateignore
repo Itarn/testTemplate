@@ -1,7 +1,5 @@
 {{#compare hwoptions 'hw1'}}
-  src/components/hw2.vue
+src/components/hw2.vue
 {{else}}
-  src/components/hw1.vue
+src/components/hw1.vue
 {{/compare}}
-
-.needrender
