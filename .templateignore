@@ -5,4 +5,3 @@ src/components/hw1.vue
 {{/compare}}
 
 .needrender
-.download-temp
