@@ -1,4 +1,5 @@
 package.json
 src/components/index.js
+src/config/index.js
 
 .templateignore
