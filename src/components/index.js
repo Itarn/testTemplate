@@ -1,3 +1,3 @@
-import HelloWorld from './{{hwoptions}}'
+import HelloWorld from './{{con}}'
 
 export default HelloWorld
