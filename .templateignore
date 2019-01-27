@@ -1,7 +1,7 @@
 {{#compare this.con 'as'}}
-src/components/as.vue
-{{else}}
 src/components/qcon.vue
+{{else}}
+src/components/as.vue
 {{/compare}}
 
 .needrender
